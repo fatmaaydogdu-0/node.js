@@ -12,3 +12,4 @@ file.readFile("ornek.txt", "utf8", (err, data) => {
   console.log("Dosya içeriği:", data);
 });
 
+
